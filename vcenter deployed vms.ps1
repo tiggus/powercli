@@ -1,4 +1,5 @@
-﻿$vcenters = <vcenterFQDN>
+﻿# git
+$vcenters = <vcenterFQDN>
 $domain = <domain>
 $searchmsg = '*deploying*'
 $samples = 150000 
